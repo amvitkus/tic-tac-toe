@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Is between/Tic-Tac-Toe.Problems-Is_between.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Tic-Tac-Toe.Problems-Is_between.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Is between/Tic-Tac-Toe.Problems-Is_between.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Tic-Tac-Toe.Problems-Is_between.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Is between/Tic-Tac-Toe.Problems-Is_between.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Is between/Tic-Tac-Toe.Problems-Is_between.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
