@@ -5,15 +5,15 @@ files:
   text: |-
     import java.util.*
 
-    fun main(args: Array<String>) {
+    fun main() {
         val scanner = Scanner(System.`in`)
 
         // write your code here
     }
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/4701#comment
+feedback_link: https://hyperskill.org/learn/step/4698#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Mon, 30 Nov 2020 17:50:47 UTC
+  time: Mon, 30 Nov 2020 17:53:14 UTC
 record: -1
