@@ -11,8 +11,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Check the numbers" />
+            <option value="$PROJECT_DIR$/Problems/Counting" />
             <option value="$PROJECT_DIR$/Problems/Empty" />
             <option value="$PROJECT_DIR$/Problems/Exactly one parameter is positive" />
+            <option value="$PROJECT_DIR$/Problems/Find the max" />
             <option value="$PROJECT_DIR$/Problems/Help the Lord Commander" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array" />
             <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
