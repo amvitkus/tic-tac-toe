@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/Check the numbers" />
+            <option value="$PROJECT_DIR$/Problems/Comment some lines" />
             <option value="$PROJECT_DIR$/Problems/Counting" />
             <option value="$PROJECT_DIR$/Problems/Cyclically shifting elements" />
             <option value="$PROJECT_DIR$/Problems/Empty" />
