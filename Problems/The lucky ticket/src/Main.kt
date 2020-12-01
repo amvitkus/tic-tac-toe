@@ -4,18 +4,18 @@ fun main() {
     // write your code here
     val scanner = Scanner(System.`in`)
 
-    val ticketArray  = IntArray(scanner.nextInt())
-    val half1 = ticketArray[0] + ticketArray[1] + ticketArray[2]
-    val half2 = ticketArray[3] + ticketArray[4] + ticketArray[5]
+    val numString = scanner.nextLine()
+    val firstNum = numString[0].toInt()
+    val secondNum = numString[1].toInt()
+    val thirdNum = numString[2].toInt()
 
-    println(half1)
-    println(half2)
+    val fourthNum = numString[3].toInt()
+    val fifthNum = numString[4].toInt()
+    val sixthNum = numString[5].toInt()
 
-    if (half1 == half2) {
+    if (firstNum + secondNum + thirdNum == fourthNum + fifthNum + sixthNum) {
         println("Lucky")
     } else {
         println("Regular")
     }
-
-    //println(ticketArray.toString())
 }
