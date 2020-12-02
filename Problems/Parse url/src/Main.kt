@@ -48,3 +48,16 @@ fun main() {
 //        println("password : $pass")
 //    }
 }
+
+// Method below can be put into main(), much more elegant.
+//val inp = readLine()!!.split("?")[1]
+//val process = inp.split("&")
+//
+//var password = ""
+//for (value in process) {
+//    val (x, y) = value.split("=")
+//
+//    if (x == "pass") password += "password : $y"
+//    if (y != "") println("$x : $y") else println("$x : not found")
+//}
+//println(password)
