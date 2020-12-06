@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Tic-Tac-Toe.Problems-Arithmetic_expression.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Tic-Tac-Toe.Problems-Arithmetic_expression.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Tic-Tac-Toe.Problems-Arithmetic_expression.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Tic-Tac-Toe.Problems-Arithmetic_expression.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Tic-Tac-Toe.Problems-Arithmetic_expression.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Arithmetic expression/Tic-Tac-Toe.Problems-Arithmetic_expression.test.iml" />
