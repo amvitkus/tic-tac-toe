@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Tic-Tac-Toe.Problems-A_simple_calculator.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Tic-Tac-Toe.Problems-A_simple_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Tic-Tac-Toe.Problems-A_simple_calculator.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Tic-Tac-Toe.Problems-A_simple_calculator.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Tic-Tac-Toe.Problems-A_simple_calculator.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/A simple calculator/Tic-Tac-Toe.Problems-A_simple_calculator.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Amount on account/Tic-Tac-Toe.Problems-Amount_on_account.test.iml" />
