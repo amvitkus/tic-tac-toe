@@ -11,5 +11,13 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/6170#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: |-
+    <html>[+] Test #1. OK
+    [+] Test #2. OK
+    [+] Test #3. OK
+
+    3 of 3 test(s) passed.</html>
+  time: Fri, 11 Dec 2020 02:23:56 UTC
 record: -1
