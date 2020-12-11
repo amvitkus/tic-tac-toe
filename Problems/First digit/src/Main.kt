@@ -5,8 +5,6 @@ fun main() {
     val word = readLine()!!
     println(getFirstDigit(word))
 
-
-
     //Below is my code used to solve problem. Couldn't use variable j in nested if loop? Had to make it it i.
 //    val input = readLine()!!.toString()
 //
